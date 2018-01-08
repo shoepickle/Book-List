@@ -10,8 +10,8 @@ The Algorithm Design Manual - pg. 65
 Modern Operating Systems - pg. 106
 - On section focusing on threads and multithreading
 
-(Winter Sociology Class) Making Societies - pg. 156
-- Gender chapter focused a lot on past, but also gave insight into present and certain situations women have to deal with
-
 Understanding the Linux Kernel - N/A
 - Will start if I finish any of the other books
+
+### Complete
+(Winter Sociology Class) Making Societies
