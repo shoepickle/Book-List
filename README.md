@@ -18,5 +18,5 @@ Introduction to Electrodynamics (Griffith) - Chapter 8/9
 - Am somewhere around there, will be done after next semester
 
 ### Complete
-(Winter Sociology Class) Making Societies
-(ECE 210) Analog Signals and Systems
+- (Winter Sociology Class) Making Societies
+- (ECE 210) Analog Signals and Systems
